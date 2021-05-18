@@ -1,0 +1,7 @@
+R
+Data MANIPULATION:
+
+Links:
+https://ourcodingclub.github.io/tutorials/data-manip-intro/
+https://paldhous.github.io/ucb/2016/dataviz/week7.html
+https://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/

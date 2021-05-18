@@ -1,0 +1,16 @@
+Name,Age,Gender,Education,Salary,AppraisedValue,Location,Landacres,HouseSizesqrft,Rooms,Baths,Garage
+Tony,25,M,Grad,50,700,Glen Cove,0.2297,2448,8,3.5,2
+Harret,52,F,PostGrad,95,364,Glen Cove,0.2192,1942,7,2.5,1
+Jane,26,F,PostGrad,65,600,Glen Cove,0.163,2073,7,3,2
+Rose,45,F,Grad,100,548.4,Long Beach,0.4608,2707,8,2.5,1
+John,42,M,Grad,77,405.9,Long Beach,0.2549,2042,,1.5,1
+Mark,62,M,PostGrad,118,374.1,Glen Cove,0.229,2089,7,2,0
+Bruce,51,M,Grad,101,600,Glen Cove,0.1714,1344,8,1,0
+Steve,43,M,Grad,108,299,Roslyn   ,0.175,1120,5,1.5,0
+Carol,24,F,PostGrad,51,471,Roslyn   ,0.213,1817,6,2,0
+Henry,25,M,PostGrad,68,510.7,Roslyn   ,0.1377,2496,,2,1
+Donald,41,M,Grad,86,517.7,Long Beach,0.2497,1615,7,2,1
+Maria,51,F,Grad,122,1200,Long Beach,0.4116,4067,9,4,1
+Janet,49,F,PostGrad,112,700,Roslyn   ,0.3372,3130,8,3,1
+Sophia,32,F,Grad,85,374.8,Roslyn   ,0.1503,1423,,2,0
+Jeffery,37,M,Grad,90,543,Long Beach,0.2348,1799,6,2.5,1
